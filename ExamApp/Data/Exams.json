@@ -1,0 +1,150 @@
+[
+  {
+    "score": 0,
+    "questions": [
+      {
+        "text": "what true about prototype?",
+        "choices": [ "No such thing", "each object has prototype", "prototype is like undefine", "prototype is used to set new this context" ],
+        "answer": "each object has prototype",
+        "customScore": 50
+      },
+      {
+        "text": "2*2=",
+        "choices": [ "5", "0", "4", "0" ],
+        "answer": "4",
+        "customScore": 10
+      },
+      {
+        "text": "1+1=",
+        "choices": [ "3", "2", "4", "1", "0", "8787" ],
+        "answer": "2",
+        "customScore": 25
+      },
+      {
+        "text": "1+5=",
+        "choices": [ "3", "2", "55", "6", "0" ],
+        "answer": "6",
+        "customScore": 25
+      },
+      {
+        "text": "8*3=",
+        "choices": [ "3", "2", "1", "24" ],
+        "answer": "2",
+        "customScore": 25
+      }
+    ],
+    "name": "Exam 1",
+    "currentIndex": 0
+  },
+  {
+    "score": 0,
+    "questions": [
+      {
+        "text": "what true about prototype?",
+        "choices": [ "No such thing", "each object has prototype", "prototype is like undefine", "prototype is used to set new this context" ],
+        "answer": "each object has prototype",
+        "customScore": 50
+      },
+      {
+        "text": "2*2=",
+        "choices": [ "5", "0", "4", "0" ],
+        "answer": "4",
+        "customScore": 10
+      },
+      {
+        "text": "1+1=",
+        "choices": [ "3", "2", "4", "1", "0", "8787" ],
+        "answer": "2",
+        "customScore": 25
+      },
+      {
+        "text": "1+5=",
+        "choices": [ "3", "2", "55", "6", "0" ],
+        "answer": "6",
+        "customScore": 25
+      },
+      {
+        "text": "8*3=",
+        "choices": [ "3", "2", "1", "24" ],
+        "answer": "2",
+        "customScore": 25
+      }
+    ],
+    "name": "Exam 2",
+    "currentIndex": 0
+  },
+  {
+    "score": 0,
+    "questions": [
+      {
+        "text": "what true about prototype?",
+        "choices": [ "No such thing", "each object has prototype", "prototype is like undefine", "prototype is used to set new this context" ],
+        "answer": "each object has prototype",
+        "customScore": 50
+      },
+      {
+        "text": "2*2=",
+        "choices": [ "5", "0", "4", "0" ],
+        "answer": "4",
+        "customScore": 10
+      },
+      {
+        "text": "1+1=",
+        "choices": [ "3", "2", "4", "1", "0", "8787" ],
+        "answer": "2",
+        "customScore": 25
+      },
+      {
+        "text": "1+5=",
+        "choices": [ "3", "2", "55", "6", "0" ],
+        "answer": "6",
+        "customScore": 25
+      },
+      {
+        "text": "8*3=",
+        "choices": [ "3", "2", "1", "24" ],
+        "answer": "2",
+        "customScore": 25
+      }
+    ],
+    "name": "Exam 3",
+    "currentIndex": 0
+  },
+  {
+    "score": 0,
+    "questions": [
+      {
+        "text": "what true about prototype?",
+        "choices": [ "No such thing", "each object has prototype", "prototype is like undefine", "prototype is used to set new this context" ],
+        "answer": "each object has prototype",
+        "customScore": 50
+      },
+      {
+        "text": "2*2=",
+        "choices": [ "5", "0", "4", "0" ],
+        "answer": "4",
+        "customScore": 10
+      },
+      {
+        "text": "1+1=",
+        "choices": [ "3", "2", "4", "1", "0", "8787" ],
+        "answer": "2",
+        "customScore": 25
+      },
+      {
+        "text": "1+5=",
+        "choices": [ "3", "2", "55", "6", "0" ],
+        "answer": "6",
+        "customScore": 25
+      },
+      {
+        "text": "8*3=",
+        "choices": [ "3", "2", "1", "24" ],
+        "answer": "2",
+        "customScore": 25
+      }
+    ],
+    "name": "Exam 4",
+    "currentIndex": 0
+  }
+]
